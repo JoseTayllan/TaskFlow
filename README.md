@@ -122,7 +122,7 @@ dotnet run --project TaskFlow.App
 
 ## 👨‍💻 Autor
 
-**Thaydion** — Desenvolvedor com foco em boas práticas, arquitetura limpa e projetos de impacto profissional.
+**José tayllan pinto Almeida** — Desenvolvedor com foco em boas práticas, arquitetura limpa e projetos de impacto profissional.
 
 ---
 
