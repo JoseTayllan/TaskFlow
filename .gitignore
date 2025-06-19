@@ -1,0 +1,21 @@
+# binário e cache
+bin/
+obj/
+
+# banco gerado localmente
+*.db
+
+# VSCode e VS settings
+.vscode/
+*.user
+*.suo
+
+# Logs e temporários
+*.log
+*.tmp
+
+.vs/
+
+# EF Core migrations snapshot (se for versionar migrations, mantenha apenas os arquivos .cs relevantes)
+/PLANO_SECRETO_TaskFlow.txt
+/Program.cs
